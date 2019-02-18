@@ -1,0 +1,2 @@
+# gitPractices
+myself git practices
